@@ -1,21 +1,21 @@
 {
   "main": {
     "name": "Braulio Alexis",
-    "occupation": "Desarrollador web, React, Node, Javascript, Python",
-    "description": "Full Stack React Developer by Day, using stack MERN",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Braulio, I'm a Full Stack ReactJS Developer.",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "occupation": "Desarrollador Web, React, Node, Javascript, Python",
+    "description": "Full Stack, using stack MERN",
+    "image": "yo.jpg",
+    "bio": "Mi nombre es Braulio, Soy un desarrollador Full Stack con react",
+    "contactmessage": "Ponte en contacto conmigo para recibir más detalles, recibir entrenamiento o cualquier otra cosa.",
     "email": "hermeztercero@gmail.com",
     "phone": "+52 5519272080",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "Picos 6B, Manzana 9",
+      "city": "México",
+      "state": "CDMX",
+      "zip": "09420"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "",
     "social": [
       {
         "name": "facebook",
@@ -40,27 +40,33 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Algunas de las Tecnologías que manejo:",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "Academlo",
+        "degree": "Desarrollador web Full Stack",
+        "graduated": "2021",
+        "description": "Formación de calidad. Menos del 5% de los aplicantes son aceptados en el programa. Solo se elijen a los estudiantes más motivados y con alto nivel de aptitud. Ingenieros de Software que no solo saben escribir código.  También algunos cursos de CodigoFacilito."
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "Freelance",
+        "title": "Javascript, CSS y HTML5",
+        "years": "Agosto 2020 ",
+        "description": "Páginas web para CV y alguna empresa"
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "Asesor de Matemáticas",
+        "title": "Matemáticas a nivel medio superior",
+        "years": "Nov 2018 - 2020",
+        "description": "Enseño y asesoro a estudiantes, trabajo por hora y entreno para examenes"
+      },
+      {
+        "company": "Reparador de computadoras",
+        "title": "Desde casa o a domicilio",
+        "years": "Enero 2020 - 2020",
+        "description": "Manejando clientes con amabilidad y honestidad, además de un buen servicio"
       }
     ],
     "skills": [
@@ -117,8 +123,12 @@
         "level": "40%"
       },
       {
-        "name": "Probabilidad y estadistica, Algebra lineal, Ecuaciones Diferenciales",
+        "name": "Probabilidad y estadistica, Algebra lineal, Cálculo",
         "level": "85%"
+      },
+      {
+        "name": "Inglés",
+        "level": "40%"
       }
     ]
   },
@@ -159,12 +169,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "Braulio es una persona Autodidacta que aprende rapido y se adapta bien, es amable y organizado",
+        "user": "Diego Cruz (Compañero de clase)"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "¡Ese Braulio debe ser uno de los desarrolladores más brillantes que he conocido! Es sorprendente que nadie lo haya contratado todavía. Oye, deberías contratar a este tipo, puede que esté recién salido y no tenga experiencia laboral, pero estoy seguro de que será uno de tus mejores desarrolladores en muy poco tiempo.",
+        "user": "Erick Pérez Alvarez (Desarrollador Web Senior)"
       }
     ]
   }

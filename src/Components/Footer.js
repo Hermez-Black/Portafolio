@@ -34,5 +34,5 @@ class Footer extends Component {
     );
   }
 }
-
+// http://timbakerdev.com
 export default Footer;
