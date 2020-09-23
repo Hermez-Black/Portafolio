@@ -19,22 +19,22 @@
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/braulioalexis.lechugaperez/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/brauliolettuce/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/Hermez-Black",
         "className": "fa fa-github"
       }
     ]
@@ -72,7 +72,7 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "80%"
+        "level": "73%"
       },
       {
         "name": "CSS",
@@ -80,11 +80,7 @@
       }, 
       {
         "name": "Git",
-        "level": "60%"
-      },
-      {
-        "name": "Python",
-        "level": "85%"
+        "level": "50%"
       },
       {
         "name": "HTML5",
@@ -92,7 +88,7 @@
       },
       {
         "name": "PostgreSQL",
-        "level": "70%"
+        "level": "50%"
       },
       {
         "name": "Node.js",
@@ -100,30 +96,14 @@
       },
       {
         "name": "Javascript",
-        "level": "80%"
+        "level": "70%"
       },
       {
         "name": "Express",
-        "level": "60%"
-      },
-      {
-        "name": "NextJS",
         "level": "50%"
       },
       {
-        "name": "Typescript",
-        "level": "78%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "60%"
-      },
-      {
-        "name": "Django",
-        "level": "40%"
-      },
-      {
-        "name": "Probabilidad y estadistica, Algebra lineal, Cálculo",
+        "name": "Probabilidad y estadistica, Cálculo",
         "level": "85%"
       },
       {
@@ -134,36 +114,6 @@
   },
   "portfolio": {
     "projects": [
-      {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
-      },
-      {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
-      },
-      {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
-      }
     ]
   },
   "testimonials": {
