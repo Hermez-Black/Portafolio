@@ -1,8 +1,8 @@
 {
   "main": {
     "name": "Braulio Alexis",
-    "occupation": "Desarrollador Web, React, Node, Javascript",
-    "description": "Full Stack, using stack MERN",
+    "occupation": "Desarrollador Web, React.js, Node.js, Javascript",
+    "description": "Full Stack, using stack PERN",
     "image": "yo.jpg",
     "bio": "Mi nombre es Braulio, Soy un desarrollador Full Stack con react",
     "contactmessage": "Ponte en contacto conmigo para recibir más detalles, recibir entrenamiento o cualquier otra cosa.",
@@ -24,7 +24,7 @@
       },
       {
         "name": "linkedin",
-        "url": "",
+        "url": "https://www.linkedin.com/in/braulio-alexis-lechuga-p%C3%A9rez-2204b4196/",
         "className": "fa fa-linkedin"
       },
       {
@@ -46,14 +46,14 @@
         "school": "Academlo",
         "degree": "Desarrollador web Full Stack",
         "graduated": "2021",
-        "description": "Formación de calidad. Menos del 5% de los aplicantes son aceptados en el programa. Solo se elijen a los estudiantes más motivados y con alto nivel de aptitud. Ingenieros de Software que no solo saben escribir código.  También algunos cursos de CodigoFacilito."
+        "description": "Formación de calidad. Menos del 5% de los aplicantes son aceptados en el programa. Solo se elijen a los estudiantes más motivados y con alto nivel de aptitud. Ingenieros de Software que no solo saben escribir código. AUTODIDACTA y También algunos cursos de CodigoFacilito."
       }
     ],
     "work": [
       {
         "company": "Freelance",
-        "title": "Javascript, CSS y HTML5",
-        "years": "Agosto 2020 ",
+        "title": "Javascript, CSS y HTML5, React.js, Node.js",
+        "years": "Mayo 2020 ",
         "description": "Páginas web para CV y alguna empresa"
       },
       {
@@ -72,7 +72,7 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "73%"
+        "level": "85%"
       },
       {
         "name": "CSS",
@@ -80,7 +80,7 @@
       }, 
       {
         "name": "Git",
-        "level": "50%"
+        "level": "70%"
       },
       {
         "name": "HTML5",
@@ -88,11 +88,11 @@
       },
       {
         "name": "PostgreSQL",
-        "level": "50%"
+        "level": "60%"
       },
       {
         "name": "Node.js",
-        "level": "60%"
+        "level": "80%"
       },
       {
         "name": "Javascript",
@@ -100,7 +100,7 @@
       },
       {
         "name": "Express",
-        "level": "50%"
+        "level": "60%"
       },
       {
         "name": "Probabilidad y estadistica, Cálculo",
@@ -108,7 +108,7 @@
       },
       {
         "name": "Inglés",
-        "level": "40%"
+        "level": "50%"
       }
     ]
   },
@@ -123,7 +123,7 @@
         "user": "Diego Cruz (Compañero de clase)"
       },
       {
-        "text": "¡Ese Braulio debe ser uno de los desarrolladores más brillantes que he conocido! Es sorprendente que nadie lo haya contratado todavía. Oye, deberías contratar a este tipo, puede que esté recién salido y no tenga experiencia laboral, pero estoy seguro de que será uno de tus mejores desarrolladores en muy poco tiempo.",
+        "text": "¡Ese Braulio debe ser uno de los desarrolladores más brillantes que he conocido! Es sorprendente que nadie lo haya contratado todavía. Oye, deberías contratar a este tipo, puede que esté recién salido y no tenga muchos años de experiencia laboral, pero estoy seguro de que será uno de tus mejores desarrolladores en muy poco tiempo.",
         "user": "Erick Pérez Alvarez (Desarrollador Web Senior)"
       }
     ]
