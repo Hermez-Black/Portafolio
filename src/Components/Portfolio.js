@@ -30,7 +30,7 @@ class Portfolio extends Component {
 
          <div className="twelve columns collapsed">
 
-            <a href="https://github.com/Hermez-Black">----------</a>
+            <a href="https://github.com/Hermez-Black">Algunos de mis Proyectos</a>
 
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
                 {projects}

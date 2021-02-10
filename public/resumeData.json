@@ -1,15 +1,15 @@
 {
   "main": {
     "name": "Braulio Alexis",
-    "occupation": "Desarrollador Web, React.js, Node.js, Javascript",
+    "occupation": "Desarrollador Web, React.js, Django y Django Rest Framework",
     "description": "Full Stack, using stack PERN",
     "image": "yo.jpg",
-    "bio": "Mi nombre es Braulio, Soy un desarrollador Full Stack con react",
+    "bio": "Mi nombre es Braulio, Soy un desarrollador Web",
     "contactmessage": "Ponte en contacto conmigo para recibir más detalles, recibir entrenamiento o cualquier otra cosa.",
     "email": "hermeztercero@gmail.com",
     "phone": "+52 5519272080",
     "address": {
-      "street": "Picos 6B, Manzana 9",
+      "street": "",
       "city": "México",
       "state": "CDMX",
       "zip": "09420"
@@ -43,17 +43,17 @@
     "education": [
       {
         "school": "Academlo",
-        "degree": "Desarrollador web Full Stack",
+        "degree": "Desarrollador web Full Stack y ciencias de la computación",
         "graduated": "2021",
-        "description": "Formación de calidad. Menos del 5% de los aplicantes son aceptados en el programa. Solo se elijen a los estudiantes más motivados y con alto nivel de aptitud. Ingenieros de Software que no solo saben escribir código. AUTODIDACTA y También algunos cursos de CodigoFacilito."
+        "description": "Front-end, Back-End, python, Javascript, Algoritmos y estructuras de datos, Servidores"
       }
     ],
     "work": [
       {
         "company": "Freelance",
-        "title": "Javascript, CSS y HTML5, React.js, Node.js",
-        "years": "Mayo 2020 ",
-        "description": "Páginas web para CV y alguna empresa"
+        "title": "Javascript, CSS y HTML5, React.js, Django",
+        "years": "Mayo 2020",
+        "description": "Páginas web para Clientes de empresas de cualquier tipo"
       },
       {
         "company": "Asesor de Matemáticas",
@@ -71,7 +71,7 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "85%"
+        "level": "75%"
       },
       {
         "name": "CSS",
@@ -83,7 +83,7 @@
       },
       {
         "name": "HTML5",
-        "level": "70%"
+        "level": "80%"
       },
       {
         "name": "PostgreSQL",
@@ -91,15 +91,23 @@
       },
       {
         "name": "Node.js",
-        "level": "80%"
+        "level": "40%"
       },
       {
         "name": "Javascript",
-        "level": "70%"
+        "level": "60%"
       },
       {
         "name": "Express",
         "level": "60%"
+      },
+      {
+        "name": "Django rest framework",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "95%"
       },
       {
         "name": "Probabilidad y estadistica, Cálculo",
@@ -107,19 +115,43 @@
       },
       {
         "name": "Inglés",
-        "level": "50%"
+        "level": "40%"
       }
     ]
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Pokedex-Api",
+        "category": "Consumo de api pokemon (ReactJS, NodeJS)",
+        "image": "pokedex.png",
+        "url": "https://romantic-turing-7abc73.netlify.app/"
+      },
+      {
+        "title": "Login, Register, forgot password",
+        "category": "Maquetado desde cero (HTML5, CSS3)",
+        "image": "login-register.png",
+        "url": "https://optimistic-euler-aeffb3.netlify.app/"
+      },
+      {
+        "title": "Maquetado desde cero",
+        "category": "Página de agencias (HTML y CSS)",
+        "image": "html-css.png",
+        "url": "https://objective-jepsen-d68a33.netlify.app/"
+      },
+      {
+        "title": "API Backend con python(Django)",
+        "category": "Escuela (SQLite, Django rest framework)",
+        "image": "python-api.png",
+        "url": "https://github.com/Hermez-Black/Crud_Django"
+      }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Braulio es una persona Autodidacta que aprende rapido y se adapta bien, es amable y organizado",
-        "user": "Diego Cruz (Compañero de clase)"
+        "text": "Braulio es una persona Autodidacta que aprende rápido y se adapta rápido",
+        "user": "David Napadensky (Compañero de clase y desarrollador Full stack MEVN)"
       },
       {
         "text": "¡Ese Braulio debe ser uno de los desarrolladores más brillantes que he conocido! Es sorprendente que nadie lo haya contratado todavía. Oye, deberías contratar a este tipo, puede que esté recién salido y no tenga muchos años de experiencia laboral, pero estoy seguro de que será uno de tus mejores desarrolladores en muy poco tiempo.",
