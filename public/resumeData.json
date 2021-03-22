@@ -134,10 +134,10 @@
         "url": "https://optimistic-euler-aeffb3.netlify.app/"
       },
       {
-        "title": "Maquetado desde cero",
-        "category": "Página de agencias (HTML y CSS)",
-        "image": "html-css.png",
-        "url": "https://objective-jepsen-d68a33.netlify.app/"
+        "title": "Página Temit",
+        "category": "Webpack, Javascript, SASS, HTML, Service Worker",
+        "image": "temit.png.png",
+        "url": "https://proyecto-temit-prueba.netlify.app/"
       },
       {
         "title": "API Backend con python(Django)",
