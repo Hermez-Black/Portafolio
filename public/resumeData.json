@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Braulio Alexis",
-    "occupation": "Desarrollador Web, React.js, Django y Django Rest Framework, Node.js con Express.js",
-    "description": "Full Stack, using stack PERN",
+    "occupation": "Desarrollador Web, React.js, Django y Django Rest Framework",
+    "description": "Full Stack, using stack Django y React",
     "image": "yo.jpg",
-    "bio": "Mi nombre es Braulio, Soy un desarrollador Web",
+    "bio": "Desarrollador web innovador y proactivo con la capacidad de desarrollar proyectos web, resolución de problemas de forma autónoma, especialista en desarrollo back-end con django.",
     "contactmessage": "Ponte en contacto conmigo para recibir más detalles, recibir entrenamiento o cualquier otra cosa.",
     "email": "hermeztercero@gmail.com",
     "phone": "+52 5519272080",
@@ -43,9 +43,9 @@
     "education": [
       {
         "school": "Academlo",
-        "degree": "Desarrollador web Full Stack y ciencias de la computación",
+        "degree": "Academia de Desarrollador web Full Stack, programación y ciencias de la computación",
         "graduated": "2021",
-        "description": "Front-end, Back-End, python, Javascript, Algoritmos y estructuras de datos, Servidores"
+        "description": "Front-end: HTML, CSS, JS , Back-End: Python, Django, Django Rest Framework  , Javascript React.js Frontend, Algoritmos y estructuras de datos, Bases de datos, Servidores"
       }
     ],
     "work": [
@@ -54,6 +54,12 @@
         "title": "Javascript, CSS y HTML5, React.js, Django",
         "years": "Agosto 2020",
         "description": "Participación en proyectos de software libre. Nociones avanzadas de lenguaje Python y entornos de desarrollo, como también JS.• Familiaridad con frameworks de Javascript y Python,React.js, postgreSQL, etc.• Diseño, construyó y realizó el mantenimiento completo de páginas web Estáticas y Dinámicas.• Apoyo técnico al ciclo completo del proyecto, desde elbriefing inicial, pasando por wireframes, diseño web,maquetación, desarrollo, programación y la publicación final.• Creación de aplicaciones ad-hoc y productos propios según requisitos del cliente"
+      },
+      {
+        "company": "TEMIT",
+        "title": "Javascript, CSS y HTML5, JS, Django",
+        "years": "Agosto 2020",
+        "description": "Desarrollar página web para la empresa con html, css y js. Usos de la tecnología Webpack y SASS.Uso de Django para sistemas de almacenaje de productos."
       },
       {
         "company": "Asesor de Matemáticas",
@@ -75,7 +81,7 @@
       },
       {
         "name": "CSS",
-        "level": "68%"
+        "level": "70%"
       }, 
       {
         "name": "Git",
@@ -90,20 +96,12 @@
         "level": "60%"
       },
       {
-        "name": "Node.js",
-        "level": "40%"
-      },
-      {
         "name": "Javascript",
-        "level": "60%"
+        "level": "70%"
       },
       {
-        "name": "Express",
-        "level": "60%"
-      },
-      {
-        "name": "Django rest framework",
-        "level": "90%"
+        "name": "Django y Django rest framework",
+        "level": "80%"
       },
       {
         "name": "Python",
@@ -115,7 +113,7 @@
       },
       {
         "name": "Inglés",
-        "level": "40%"
+        "level": "30%"
       }
     ]
   },
@@ -137,7 +135,7 @@
         "title": "Página Temit",
         "category": "Webpack, Javascript, SASS, HTML, Service Worker",
         "image": "temit.png.png",
-        "url": "https://proyecto-temit-prueba.netlify.app/"
+        "url": "https://temit-prueba-balp.netlify.app/"
       },
       {
         "title": "API Backend con python(Django)",
