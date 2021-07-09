@@ -43,16 +43,16 @@
     "education": [
       {
         "school": "Academlo",
-        "degree": "Academia de Desarrollador web Full Stack, programación y ciencias de la computación",
+        "degree": "Academia de Desarrollo web Full Stack, programación y ciencias de la computación",
         "graduated": "2020-2021",
         "description": "Front-end: HTML, CSS, JS , Back-End: Python, Django, Django Rest Framework  , Javascript React.js Frontend, Algoritmos y estructuras de datos, Bases de datos, Servidores"
       }
     ],
     "work": [
       {
-        "company": "Freelance",
+        "company": "Proyectos",
         "title": "Javascript, CSS y HTML5, React.js, Django",
-        "years": "Octubre 2020 a abril 2021 ",
+        "years": "junio 2020 a julio 2021 ",
         "description": "Participación en proyectos de software libre. Nociones avanzadas de lenguaje Python y entornos de desarrollo, como también JS.• Familiaridad con frameworks de Javascript y Python,React.js, postgreSQL, etc.• Diseño, construyó y realizó el mantenimiento completo de páginas web Estáticas y Dinámicas.• Apoyo técnico al ciclo completo del proyecto, desde elbriefing inicial, pasando por wireframes, diseño web,maquetación, desarrollo, programación y la publicación final.• Creación de aplicaciones ad-hoc y productos propios según requisitos del cliente"
       },
       {
